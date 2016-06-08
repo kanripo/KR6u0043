@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:46.951195
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 普賢菩薩行願王經
 #+PROPERTY: CBETA_ID T85n2907
 #+PROPERTY: ID KR6u0043
@@ -258,7 +258,7 @@ No. 2907¶
 　我得最勝授記已
 　變化眾多百俱胝¶
 　令以惠力於十方
-　於諸有情作饒益
+　於諸有情作饒益」
 #+END_VERSE
-」¶
+¶
 普賢菩薩行願王經
